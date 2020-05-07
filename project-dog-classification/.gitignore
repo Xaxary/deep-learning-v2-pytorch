@@ -1,3 +1,5 @@
 dogImages/
 lfw/
-
+haar*
+*.DS_Store
+../.DS_Store
