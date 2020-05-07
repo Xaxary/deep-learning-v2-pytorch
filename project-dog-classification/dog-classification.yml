@@ -1,5 +1,6 @@
 name: dog-classification
 channels:
+  - pytorch
   - defaults
 dependencies:
   - _pytorch_select=0.1=cpu_0
@@ -71,6 +72,7 @@ dependencies:
   - notebook=6.0.3=py37_0
   - numpy=1.18.1=py37h7241aed_0
   - numpy-base=1.18.1=py37h6575580_1
+  - olefile=0.46=py37_0
   - opencv=3.4.2=py37h6fd60c2_1
   - openssl=1.1.1g=h1de35cc_0
   - pandas=1.0.3=py37h6c726b0_0
@@ -80,6 +82,7 @@ dependencies:
   - pcre=8.43=h0a44026_0
   - pexpect=4.8.0=py37_0
   - pickleshare=0.7.5=py37_0
+  - pillow=7.1.2=py37h4655f20_0
   - pip=20.0.2=py37_1
   - pixman=0.38.0=h1de35cc_0
   - prometheus_client=0.7.1=py_0
@@ -108,6 +111,7 @@ dependencies:
   - terminado=0.8.3=py37_0
   - testpath=0.4.4=py_0
   - tk=8.6.8=ha441bb4_0
+  - torchvision=0.5.0=py37_cpu
   - tornado=6.0.4=py37h1de35cc_1
   - tqdm=4.46.0=py_0
   - traitlets=4.3.3=py37_0
