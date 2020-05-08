@@ -3,3 +3,5 @@ lfw/
 haar*
 *DS_Store
 Learning*
+cifar*
+*Transfer_Learning_Exercise.ipynb
